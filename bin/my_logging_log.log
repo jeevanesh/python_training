@@ -1,0 +1,5 @@
+INFO : 43_logging.py - This is Info message
+DEBUG : 43_logging.py - This is debug message
+WARNING : 43_logging.py - This is warning message
+CRITICAL : 43_logging.py - This is critical message
+ERROR : 43_logging.py - This is error message
